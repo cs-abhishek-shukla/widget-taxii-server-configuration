@@ -4,7 +4,7 @@
 
 **Publisher**: Fortinet
 
-**Compatibility**: 7.2.0 and later
+**Compatibility**: 7.6.1 and later
 
 **Applicable**: Threat Intel Management solution pack
 
